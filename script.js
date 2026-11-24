@@ -142,9 +142,4 @@ function applyScientificOp() {
             updateDisplay();
         }, 1500);
     }
-<<<<<<< HEAD
 }
-=======
-}
-
->>>>>>> feature/scientific-v2
